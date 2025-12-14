@@ -27,5 +27,5 @@ Le code génère des graphiques clairs montrant les raies spectrales avant et ap
 - La zone de Nyquist entre $[-F_s/2, F_s/2]$.
 
 ---
-**ENSA Tétouan** 
+
 
