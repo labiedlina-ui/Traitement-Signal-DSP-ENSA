@@ -25,7 +25,11 @@ Le fichier `TD2_DSP.ipynb` est divisé en 4 exercices progressifs :
 Le code génère des graphiques clairs montrant les raies spectrales avant et après échantillonnage :
 - Les répliques spectrales à $k \cdot F_s \pm f_0$.
 - La zone de Nyquist entre $[-F_s/2, F_s/2]$.
+Author
+Labied Lina
 
----
+GitHub: @labiedlina-ui
+Institution: ENSA-Tétouan
+Course: Digital Signal Processing (GSTR1)
 
 
